@@ -13,7 +13,7 @@ jobs:
       - name: 'Hello World'
         run: echo "Hello World"
       - name: 'Print date'
-        run: echo date
+        run: date
       - name: 'Muestra archivos directorio sin checkout'
         run: ls -la
 
